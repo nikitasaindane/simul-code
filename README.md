@@ -31,7 +31,7 @@ A real-time collaborative code editor that allows multiple users to write and ed
 
 1. Clone the repository:
 ```
-   git clone https://github.com/BhupeshChaudhari/simulcode-real-time-code-editor.git
+   git clone https://github.com/nikitasaindane/simul-code.git
    cd real-time-code-editor
 ```
 
